@@ -1,5 +1,7 @@
 Developed By : - Chandra Prakash, Software Engineer
 
+This is a simple portfolio website builts on HTML5, CSS3, BOOTSTRAP, JAVASCRIPT
+
 For any Query: - saimverna70@gmail.com
 
 
